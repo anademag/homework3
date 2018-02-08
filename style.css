@@ -1,0 +1,117 @@
+body {
+  background-color: #ffffff;
+}
+header, main, footer {
+  max-width: 90%;
+  margin: 0 auto;
+}
+.maintitle {
+  background-color: inherit;
+  font-family: 'Open Sans';
+  font-size: 32px;
+  color: #DE3B31;
+}
+.secondtitle {
+  background-color: inherit;
+  font-family: 'Open Sans';
+  font-size: 20px;
+}
+.headernav a {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  width: 11%;
+}
+main {
+  margin: 0px auto;
+}
+h1 {
+  color: #bbbbbb;
+  font-family: 'Open Sans';
+  font-size: 28px;
+  font-weight: lighter;
+  line-height: 2px;
+}
+h2 {
+  color: gray;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: bold;
+}
+section {
+  max-width: 50%;
+  display: inline-block;
+}
+img {
+  max-width: 100%;
+}
+.posttitle {
+  color: #000000;
+  font-family: 'Open Sans';
+  font-size: 24px;
+  font-weight: normal;
+}
+.blogpost {
+  color: gray;
+  font-family: 'Open Sans';
+  font-size: 14px;
+}
+.capitalletter {
+  float: left;
+  padding: 0px 17px 0px 0px;
+  color: #DDDDDD;
+  font-family: 'Open Sans';
+  font-size: 66px;
+  font-weight: lighter;
+  line-height: 20px;
+}
+.blogpostlink {
+  text-align: right;
+}
+.blogpostlink a, .aboutlink a {
+  color: #DE3B31;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+aside {
+  background-color: transparent;
+  max-width: 22%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 70px 0px 0px 20px;
+  padding: 20px;
+}
+.aboutlink {
+     text-align: right;
+}
+.abouttext {
+  color: #444444;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  text-decoration: none;
+}
+.footernav a, .listofposts a {
+  color: #DE3B31;
+  font-family: 'Open Sans';
+  font-size: 14px;
+  font-weight: none;
+  text-decoration: none;
+}
+.pipe {
+  color: gray;
+}
+.pagerights {
+  color: gray;
+  font-family: 'Open Sans';
+  font-size: 14px;
+}
+.adimg {
+  padding: 10px;
+}
